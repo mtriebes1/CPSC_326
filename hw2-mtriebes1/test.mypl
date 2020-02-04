@@ -1,0 +1,45 @@
+# test
+,
+!=
+:=
+>=
+12.345
+9876543210
+"hello"
+"My Name is Matthew :)"
+'a'
+'b'
+# ---------- Reserved Words
+int
+bool
+double
+char
+string
+type
+and
+or
+not
+neg
+while
+for
+to
+do
+if
+then
+else
+elif
+end
+fun
+var
+set
+return
+new
+nil
+true
+false
+# ---------- ID's 
+matthew
+MATTHEW
+MatthEw
+Matth_ew
+MA11h3w

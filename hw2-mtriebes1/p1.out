@@ -1,0 +1,5 @@
+ID 'print' 1:1
+LPAREN '(' 1:6
+STRING_VAL 'Hello World!' 1:7
+RPAREN ')' 1:21
+EOS '' 2:0

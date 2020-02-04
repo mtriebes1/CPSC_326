@@ -1,0 +1,52 @@
+# basic symbols
+,
+.
++
+-
+*
+%
+/
+(
+)
+=
+:=
+!=
+<
+>
+<=
+>=
+
+# characters and strings
+' '
+'a'
+'0'
+""
+"Hello World!"
+
+# numbers
+0 1 2 3
+
+10 100 1000 99 999 90
+# both bad: 01 001
+0.0 0.00
+# both bad: 00.0 01.1
+# also bad: 1.
+0.1 0.12 0.123456789
+314.175
+
+# reserved words
+int string bool double char nil type
+and or not
+neg
+while for to do
+if then elif else end
+fun
+var set
+return
+new
+nil
+
+
+# ids
+x y z abc abc1234 a_bcd a_b_cd a_ b__ camelCase SnakeCase a01 a_0_1 a_0_1_
+
