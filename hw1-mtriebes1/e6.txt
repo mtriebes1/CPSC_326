@@ -1,0 +1,3 @@
+elevators 20
+down 10 50
+up1 10
